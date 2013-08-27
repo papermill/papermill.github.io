@@ -2,11 +2,4 @@
 
 ---
 
-(this is just to get URL redirects for project pages: `papermill.github.io` `=>` `code.papermill.in`)
-
----
-
-## Projects of Note
-
-- [`Manual`](Manual)
-- [`mill`](mill)
+*(this is just to get URL redirects for project pages: `papermill.github.io` `=>` `code.papermill.in`)*
