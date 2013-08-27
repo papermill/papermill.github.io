@@ -8,5 +8,5 @@
 
 ## Projects of Note
 
-- [`Manual`](//code.papermill.in/Manual)
-- [`mill`](//code.papermill.in/mill)
+- [`Manual`](Manual)
+- [`mill`](mill)
